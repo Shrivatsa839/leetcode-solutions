@@ -1,23 +1,25 @@
-# LeetCode Solutions 🚀
+"""
+LeetCode #1 - Two Sum
 
-This repository contains my solutions to LeetCode problems as part of my Data Structures & Algorithms journey.
+Problem:
+https://leetcode.com/problems/two-sum/
 
-## Goals
-- Solve LeetCode problems consistently.
-- Improve problem-solving skills.
-- Prepare for software engineering interviews.
-- Learn optimal approaches and time complexity.
+Difficulty: Easy
 
-## Languages
-- Python 🐍
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
 
-## Progress
+from typing import List
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | Two Sum | Easy | ✅ |
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap = {}
 
-  
-  
-Many more problems to come! 🚀
-  
+        for i, num in enumerate(nums):
+            complement = target - num
+
+            if complement in hashmap:
+                return [hashmap[complement], i]
+
+            hashmap[num] = i
