@@ -16,5 +16,6 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
 | 1 | Two Sum | Easy | ✅ |
+| 2 | Add Two Numbers | Medium | ✅ |
 
 Many more problems to come! 🚀
