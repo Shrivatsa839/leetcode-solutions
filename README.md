@@ -13,9 +13,10 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 
 ## Progress
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | Two Sum | Easy | ✅ |
-| 2 | Add Two Numbers | Medium | ✅ |
+| Progress | LeetCode # | Problem | Difficulty | Status |
+|----------|------------|---------|------------|--------|
+| 1️⃣ | 1 | Two Sum | Easy | ✅ |
+| 2️⃣ | 2 | Add Two Numbers | Medium | ✅ |
+| 3️⃣ | 9 | Palindrome Number | Easy | ✅ |
 
 Many more problems to come! 🚀
