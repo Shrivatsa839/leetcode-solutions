@@ -13,10 +13,13 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 
 ## Progress
 
-| Progress | LeetCode # | Problem | Difficulty | Status |
-|----------|------------|---------|------------|--------|
-| 1️⃣ | 1 | Two Sum | Easy | ✅ |
-| 2️⃣ | 2 | Add Two Numbers | Medium | ✅ |
-| 3️⃣ | 9 | Palindrome Number | Easy | ✅ |
+## 📈 Progress
+
+| Progress | LeetCode # | Problem | Difficulty | Language | Status |
+|----------|------------|---------|------------|----------|--------|
+| ✅ 1 | 0001 | Two Sum | Easy | Python | Solved |
+| ✅ 2 | 0002 | Add Two Numbers | Medium | Python | Solved |
+| ✅ 3 | 0009 | Palindrome Number | Easy | Python | Solved |
+| ✅ 4 | 0019 | Remove Nth Node From End of List | Medium | Python | Solved |
 
 Many more problems to come! 🚀
