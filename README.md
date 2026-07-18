@@ -15,11 +15,12 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 
 ## 📈 Progress
 
-| Progress | LeetCode # | Problem | Difficulty | Language | Status |
-|----------|------------|---------|------------|----------|--------|
-| ✅ 1 | 0001 | Two Sum | Easy | Python | Solved |
-| ✅ 2 | 0002 | Add Two Numbers | Medium | Python | Solved |
-| ✅ 3 | 0009 | Palindrome Number | Easy | Python | Solved |
-| ✅ 4 | 0019 | Remove Nth Node From End of List | Medium | Python | Solved |
+| Progress | LeetCode # | Problem | Difficulty | Topic | Language | Status |
+|----------|------------|---------|------------|--------|----------|--------|
+| ✅ 1 | 0001 | Two Sum | Easy | Arrays, Hash Map | Python | Solved |
+| ✅ 2 | 0002 | Add Two Numbers | Medium | Linked List | Python | Solved |
+| ✅ 3 | 0009 | Palindrome Number | Easy | Math, String | Python | Solved |
+| ✅ 4 | 0019 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | Python | Solved |
+| ✅ 5 | 0027 | Remove Element | Easy | Arrays, Two Pointers | Python | Solved |
 
 Many more problems to come! 🚀
