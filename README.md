@@ -15,16 +15,19 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 
 ## 📈 Progress
 
+## 📊 Progress
+
 | Progress | LeetCode # | Problem | Difficulty | Topic | Language | Status |
 |----------|------------|---------|------------|--------|----------|--------|
 | ✅ 1 | 0001 | Two Sum | Easy | Arrays, Hash Map | Python | Solved |
 | ✅ 2 | 0002 | Add Two Numbers | Medium | Linked List | Python | Solved |
-| ✅ 3 | 0009 | Palindrome Number | Easy | Math, String | Python | Solved |
-| ✅ 4 | 0019 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | Python | Solved |
-| ✅ 5 | 0027 | Remove Element | Easy | Arrays, Two Pointers | Python | Solved |
-| ✅ 6 | 0028 | Find the Index of the First Occurrence in a String | Easy | Strings | Python | Solved |
-| ✅ 7 | 0024 | Swap Nodes in Pairs | Medium | Linked List | Python | Solved |
-| ✅ 8 | 0021 | Merge Two Sorted Lists | Easy | Linked List, Recursion | Python | Solved |
-| ✅ 9 | 0005 | Longest Palindromic Substring | Medium | String, Dynamic Programming | Python | Solved |
+| ✅ 3 | 0005 | Longest Palindromic Substring | Medium | String, Dynamic Programming | Python | Solved |
+| ✅ 4 | 0007 | Reverse Integer | Medium | Math | Python | Solved |
+| ✅ 5 | 0009 | Palindrome Number | Easy | Math, String | Python | Solved |
+| ✅ 6 | 0019 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | Python | Solved |
+| ✅ 7 | 0021 | Merge Two Sorted Lists | Easy | Linked List, Recursion | Python | Solved |
+| ✅ 8 | 0024 | Swap Nodes in Pairs | Medium | Linked List | Python | Solved |
+| ✅ 9 | 0027 | Remove Element | Easy | Arrays, Two Pointers | Python | Solved |
+| ✅ 10 | 0028 | Find the Index of the First Occurrence in a String | Easy | Strings | Python | Solved |
 
 Many more problems to come! 🚀
