@@ -27,7 +27,8 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 | ✅ 6 | 0019 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | Python | Solved |
 | ✅ 7 | 0021 | Merge Two Sorted Lists | Easy | Linked List, Recursion | Python | Solved |
 | ✅ 8 | 0024 | Swap Nodes in Pairs | Medium | Linked List | Python | Solved |
-| ✅ 9 | 0027 | Remove Element | Easy | Arrays, Two Pointers | Python | Solved |
-| ✅ 10 | 0028 | Find the Index of the First Occurrence in a String | Easy | Strings | Python | Solved |
+| ✅ 9 | 0025 | Reverse Nodes in k-Group | Hard | Linked List, Recursion, Pointer Manipulation | Python | Solved |
+| ✅ 10 | 0027 | Remove Element | Easy | Arrays, Two Pointers | Python | Solved |
+| ✅ 11 | 0028 | Find the Index of the First Occurrence in a String | Easy | Strings | Python | Solved |
 
 Many more problems to come! 🚀
